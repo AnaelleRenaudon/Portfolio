@@ -1,7 +1,5 @@
 body {
-    background-image: url(../IMAGES/télécharger.jpg);
-    background-position: center;
-    background-attachment: fixed;
+    background-color: #e8c9ce;
     font-family: sans-serif;
     margin: 0;
     padding: 0;
@@ -80,7 +78,7 @@ html{
 }
 
 .element-experience p::before {
-    content: "• ";
+    content: "";
     font-size: 24px;
     color: black;
 }
